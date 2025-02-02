@@ -6,8 +6,9 @@
  
 <h2>📄 Certifications</h2>
 
- -[Google IT Support Professional]
- - CompTIA Security+  — Expected [07/25]
+ -[Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/0X8CWXTEV9VR)
+
+- CompTIA Security+  — Expected [07/25]
 
 - <h2>📺 Popular YouTube Videos</h2>
 
