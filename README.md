@@ -5,6 +5,7 @@
 - [] 
  
 <h2>📄 Certifications</h2>
+
 -[Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/T6G17ARJ7MCC)
 
 -[The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/verify/TRGQVHN5GUYE)
