@@ -18,6 +18,16 @@
 
 -[Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/0X8CWXTEV9VR)
 
+-[Introduction to Microsoft Word]
+
+-[[Introduction to Microsoft Excel]
+
+-[Introduction to Microsoft Powerpoint]
+
+-[Basic Customer Service]
+
+
+
 - CompTIA Security+  — Expected [07/25]
 
 - <h2>📺 Popular YouTube Videos</h2>
